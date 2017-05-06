@@ -80,7 +80,7 @@
               <?php } ?>
             </div>
           </div>
-          <div class="form-group">
+          <div class="form-group hide">
             <label class="col-sm-3 control-label" for="input-fax"><?php echo $entry_fax; ?></label>
             <div class="col-sm-9">
               <input type="text" name="fax" value="<?php echo $fax; ?>" placeholder="<?php echo $entry_fax; ?>" id="input-fax" class="form-control" />
