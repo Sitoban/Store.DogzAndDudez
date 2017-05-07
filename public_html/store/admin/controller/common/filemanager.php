@@ -235,8 +235,7 @@ class ControllerCommonFileManager extends Controller {
 					'jpg',
 					'jpeg',
 					'gif',
-					'png',
-					'svg'
+					'png'
 				);
 
 				if (!in_array(utf8_strtolower(utf8_substr(strrchr($filename, '.'), 1)), $allowed)) {
@@ -249,8 +248,7 @@ class ControllerCommonFileManager extends Controller {
 					'image/pjpeg',
 					'image/png',
 					'image/x-png',
-					'image/gif',
-					'image/svg+xml'
+					'image/gif'
 				);
 
 				if (!in_array($this->request->files['file']['type'], $allowed)) {
