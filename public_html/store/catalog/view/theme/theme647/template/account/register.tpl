@@ -242,7 +242,7 @@
         </fieldset>
         <fieldset id="address">
           <legend><?php echo $text_your_address; ?></legend>
-          <div class="form-group">
+          <div class="form-group hide">
             <label class="col-sm-3 control-label" for="input-company"><?php echo $entry_company; ?></label>
             <div class="col-sm-9">
               <input type="text" name="company" value="<?php echo $company; ?>" placeholder="<?php echo $entry_company; ?>" id="input-company" class="form-control" />
