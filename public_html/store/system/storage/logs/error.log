@@ -2,3 +2,14 @@
 2017-05-04 17:42:48 - PHP Warning:  Attempt to modify property of non-object in /home/sitoban/public_html/store/catalog/controller/api/customer.php on line 7
 2017-05-04 18:13:57 - PHP Notice:  Undefined variable: languages in /home/sitoban/public_html/store/admin/view/template/module/olark.tpl on line 64
 2017-05-04 18:13:57 - PHP Warning:  Invalid argument supplied for foreach() in /home/sitoban/public_html/store/admin/view/template/module/olark.tpl on line 64
+2017-05-07 18:00:40 - PHP Notice:  Undefined index: description in /home/sitoban/public_html/store/system/storage/modification/admin/controller/design/banner.php on line 388
+2017-05-07 18:00:40 - PHP Notice:  Undefined index: description in /home/sitoban/public_html/store/system/storage/modification/admin/controller/design/banner.php on line 388
+2017-05-07 18:00:40 - PHP Notice:  Undefined index: sort_order in /home/sitoban/public_html/store/system/storage/modification/admin/controller/design/banner.php on line 394
+2017-05-07 18:00:57 - PHP Notice:  Undefined index: description in /home/sitoban/public_html/store/system/storage/modification/admin/controller/design/banner.php on line 388
+2017-05-07 18:00:57 - PHP Notice:  Undefined index: description in /home/sitoban/public_html/store/system/storage/modification/admin/controller/design/banner.php on line 388
+2017-05-07 18:01:04 - PHP Notice:  Undefined index: description in /home/sitoban/public_html/store/system/storage/modification/admin/controller/design/banner.php on line 388
+2017-05-07 18:01:04 - PHP Notice:  Undefined index: description in /home/sitoban/public_html/store/system/storage/modification/admin/controller/design/banner.php on line 388
+2017-05-07 18:01:47 - PHP Notice:  Undefined index: description in /home/sitoban/public_html/store/system/storage/modification/admin/controller/design/banner.php on line 388
+2017-05-07 18:01:47 - PHP Notice:  Undefined index: description in /home/sitoban/public_html/store/system/storage/modification/admin/controller/design/banner.php on line 388
+2017-05-07 18:01:47 - PHP Notice:  Undefined index: sort_order in /home/sitoban/public_html/store/system/storage/modification/admin/controller/design/banner.php on line 394
+2017-05-07 18:02:43 - PHP Notice:  Undefined index: sort_order in /home/sitoban/public_html/store/system/storage/modification/admin/model/design/banner.php on line 37
