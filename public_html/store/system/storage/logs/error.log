@@ -13,3 +13,8 @@
 2017-05-07 18:01:47 - PHP Notice:  Undefined index: description in /home/sitoban/public_html/store/system/storage/modification/admin/controller/design/banner.php on line 388
 2017-05-07 18:01:47 - PHP Notice:  Undefined index: sort_order in /home/sitoban/public_html/store/system/storage/modification/admin/controller/design/banner.php on line 394
 2017-05-07 18:02:43 - PHP Notice:  Undefined index: sort_order in /home/sitoban/public_html/store/system/storage/modification/admin/model/design/banner.php on line 37
+2017-05-21 13:49:42 - PHP Notice:  Undefined variable: i in /home/sitoban/public_html/store/admin/view/template/module/tm_megamenu.tpl on line 913
+2017-05-28 7:10:24 - PHP Warning:  ftp_login(): Login authentication failed in /home/sitoban/public_html/store/admin/controller/extension/installer.php on line 295
+2017-05-28 17:59:59 - PHP Warning:  ftp_chdir(): Can't change directory to 123456: No such file or directory in /home/sitoban/public_html/store/admin/controller/extension/installer.php on line 299
+2017-05-28 18:00:39 - PHP Warning:  ftp_chdir(): Can't change directory to 123456: No such file or directory in /home/sitoban/public_html/store/admin/controller/extension/installer.php on line 299
+2017-05-28 18:01:26 - PHP Warning:  ftp_chdir(): Can't change directory to 123456: No such file or directory in /home/sitoban/public_html/store/admin/controller/extension/installer.php on line 299
