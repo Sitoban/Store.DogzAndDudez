@@ -22,7 +22,10 @@
 </div>
 <?php } ?>
 <?php } ?>
-
+<p class="hide" ><strong><?php echo $text_comments; ?></strong></p>
+<p class="hide" >
+  <textarea name="comment" rows="8" class="form-control"><?php echo $comment; ?></textarea>
+</p>
 <?php if ($text_agree) { ?>
 <div class="buttons">
   <div>
