@@ -814,7 +814,9 @@ header .nav, header .box-telephone, header .box-cart, header .box-wishlist, head
   float: right;
 }
 header .navigation {
-  background: #333;
+  /*background: #333;*/
+  background: url(../image/NavBar.png);
+  background-color: #333;
 }
 header > hr {
   margin: 0;
@@ -2996,7 +2998,7 @@ input[type="checkbox"][name="agree"] + label:before, input[type="checkbox"][name
   padding: 0 30px;
   text-align: center;
   color: #fff;
-  font-size: 20px;
+  font-size: 23px;
   line-height: 20px;
   font-weight: 400;
 }

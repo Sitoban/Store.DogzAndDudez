@@ -140,7 +140,7 @@
 								</li>
 							</ul>
 						</nav>
-						<address class="material-design-phone370 box-telephone">
+						<address class="material-design-phone370 box-telephone hide">
 							<a href="callto:<?php echo $telephone ?>">
 								<?php echo $telephone; ?>
 							</a>
