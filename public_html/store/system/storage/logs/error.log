@@ -18,3 +18,4 @@
 2017-05-28 17:59:59 - PHP Warning:  ftp_chdir(): Can't change directory to 123456: No such file or directory in /home/sitoban/public_html/store/admin/controller/extension/installer.php on line 299
 2017-05-28 18:00:39 - PHP Warning:  ftp_chdir(): Can't change directory to 123456: No such file or directory in /home/sitoban/public_html/store/admin/controller/extension/installer.php on line 299
 2017-05-28 18:01:26 - PHP Warning:  ftp_chdir(): Can't change directory to 123456: No such file or directory in /home/sitoban/public_html/store/admin/controller/extension/installer.php on line 299
+2017-06-07 17:36:45 - PHP Notice:  Undefined index: comment in /home/sitoban/public_html/store/catalog/controller/checkout/payment_method.php on line 182
