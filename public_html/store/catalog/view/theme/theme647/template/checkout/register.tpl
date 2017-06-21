@@ -35,11 +35,11 @@
       <div class="form-group required">
         <label class="control-label" for="input-payment-telephone"><?php echo $entry_telephone; ?></label>
         <input type="text" name="telephone" value="" placeholder="<?php echo $entry_telephone; ?>" id="input-payment-telephone" class="form-control" />
-      </div>
-      <div class="form-group">
+      </div>      
+      <div class="form-group hide">
         <label class="control-label" for="input-payment-fax"><?php echo $entry_fax; ?></label>
         <input type="text" name="fax" value="" placeholder="<?php echo $entry_fax; ?>" id="input-payment-fax" class="form-control" />
-      </div>
+      </div>      
       <?php foreach ($custom_fields as $custom_field) { ?>
       <?php if ($custom_field['location'] == 'account') { ?>
       <?php if ($custom_field['type'] == 'select') { ?>
@@ -149,7 +149,7 @@
   <div class="col-sm-6">
     <fieldset id="address">
       <legend><?php echo $text_your_address; ?></legend>
-      <div class="form-group">
+      <div class="form-group hide">
         <label class="control-label" for="input-payment-company"><?php echo $entry_company; ?></label>
         <input type="text" name="company" value="" placeholder="<?php echo $entry_company; ?>" id="input-payment-company" class="form-control" />
       </div>
@@ -283,7 +283,7 @@
     </fieldset>
   </div>
 </div>
-<div class="checkbox">
+<div class="checkbox hide">
   <label for="newsletter">
     <input type="checkbox" name="newsletter" value="1" id="newsletter" />
     <?php echo $entry_newsletter; ?></label>
